@@ -18,9 +18,6 @@ Press SHARE to open the cheats, you can activate cheats meanwhile youre playing.
 - 10 cheats based on the existing GoldHEN trainer.
 - Infinite Health, Rage, Arrows and Weapon Charge.
 - Max XP and Resources.
-- Interactive HTML menu preview.
-- C-based input and navigation prototype.
-- Planned L1 + Circle menu shortcut.
 
 ## Installation
 
