@@ -1,0 +1,37 @@
+GOWR CUSTOM CHEATS (BASE 1.0) - PS4 CUSA34384 / v06.00
+====================================================
+
+ESTADO REAL DEL PROYECTO
+------------------------
+SI: Generador de trucos GoldHEN traducidos al espanol, 10 entradas,
+    conservando offsets y bytes de la fuente de Celogamez.
+SI: Vista previa interactiva del menu personalizado (archivo HTML).
+SI: Logica en C para detectar L1 + Circulo y navegar (probada en PC).
+NO: Todavia NO existe el plugin PS4 .prx que dibuje el menu dentro del juego.
+NO: Todavia NO existe el adaptador de input PS4 ni el motor de trucos del menu propio.
+
+INSTALACION DISPONIBLE YA (MENU NATIVO DE GOLDHEN)
+-------------------------------------------------
+1. En PC, ejecuta GENERAR_WINDOWS.bat con internet.
+2. Se creara SALIDA/CUSA34384_06.00.shn.
+3. Haz copia de respaldo del archivo existente en PS4.
+4. Via FTP, copia el nuevo archivo a /user/data/GoldHEN/cheats/shn/.
+5. Asegurate de que NO hay un JSON o MC4 duplicado para CUSA34384_06.00
+   en sus carpetas, ya que GoldHEN admite solo un formato por juego/version.
+6. Abre Ragnarok y manten SHARE para abrir la lista de GoldHEN.
+   Cruceta arriba/abajo para elegir, X para activar/desactivar.
+7. El primer truco, MAESTRO, debe activarse antes de los otros segun su autor.
+   Lee siempre las advertencias (XP MAXIMA: NO USAR EN VALHALLA).
+
+L1 + CIRCULO
+------------
+El atajo L1+CIRCULO es la META del menu propio, NO funciona todavia en PS4.
+Puedes probarlo en el navegador de tu PC abriendo VISTA_PREVIA.html:
+Mantener tecla L y pulsar O -> abrir/cerrar. Flechas navegan; Enter alterna.
+No confundas esa demostracion con un plugin funcional de consola.
+
+No actualizar el juego a otra version: offsets no son portables.
+Haz una copia de la partida antes de probar trucos. No usar en partidas online.
+
+Fuente original:
+https://github.com/GoldHEN/GoldHEN_Cheat_Repository/blob/main/shn/CUSA34384_06.00.shn
