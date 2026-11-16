@@ -2,6 +2,8 @@
 
 Custom GoldHEN cheat menu project for **God of War Ragnarök** on PlayStation 4.
 
+Press SHARE to open de cheats, you can activate cheats meanwhile youre playing. 
+
 ## Compatibility
 
 - Platform: PlayStation 4
